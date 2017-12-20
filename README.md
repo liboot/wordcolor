@@ -1,4 +1,4 @@
-wordcolor
+GO wordcolor
 ------------
 Color your words! Similar words have Similar color.
 
@@ -9,7 +9,7 @@ Go 1.2 or above.
 ## Install & Usage
 
 ```
-$ go get github.com/liboot/wordcolor.go
+$ go get github.com/liboot/wordcolor
 ```
 
 
