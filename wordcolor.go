@@ -65,8 +65,6 @@ func WordColor(word string, spec int) string {
 
 func WordColorRGB(word string) RGB {
 	color := GetColor(word)
-	fmt.Println(color.Torgb())
-	fmt.Println(color.Tohex())
 	return color
 }
 
